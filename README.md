@@ -1,5 +1,56 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Machine Learning and NLP projects using Python  <br>- Building internship-ready AI/ML projects and improving my GitHub portfolio  <br><br>👯 I’m looking to collaborate on  <br>- Beginner to intermediate Machine Learning projects  <br>- Python-based data analysis or automation projects  <br><br>🤝 I’m looking for help with  <br>- Improving model performance  <br>- Learning best practices for real-world ML projects  <br><br>🌱 I’m currently learning  <br>- Advanced Machine Learning concepts  <br>- Natural Language Processing  <br>- Scikit-learn and data preprocessing techniques  <br><br>💬 Ask me about  <br>- Python  <br>- Pandas, NumPy  <br>- Data Visualization (Matplotlib, Seaborn)  <br>- Basic Web Development  <br><br>⚡ Fun fact  <br>- I enjoy breaking down complex ML concepts into simple, understandable steps<br>
+
+## 👨‍💻 About Me
+
+🔭 I’m currently working on
+
+* Machine Learning applications for engineering and scientific domains
+* Research on Thermal Conductivity Prediction of Nanofluids using Machine Learning
+* Building AI, Computer Vision, and IoT-based projects using Python and Embedded Systems
+
+👯 I’m looking to collaborate on
+
+* Machine Learning and Data Science projects
+* Computer Vision applications using OpenCV and MediaPipe
+* Scientific Computing and Applied Mathematics projects
+* Research-oriented AI projects and open-source contributions
+
+🤝 I’m looking for help with
+
+* Advanced Machine Learning techniques and model optimization
+* Research methodology and scientific publishing
+* Building scalable and production-ready AI applications
+
+🌱 I’m currently learning
+
+* Advanced Machine Learning and Data Analysis
+* Scientific Computing and Mathematical Modelling
+* Computer Vision and Intelligent Systems
+* Research-driven applications of AI in Engineering
+
+💬 Ask me about
+
+* Python, Java, and MATLAB
+* Machine Learning and Data Preprocessing
+* Pandas, NumPy, Scikit-learn
+* Computer Vision (OpenCV, MediaPipe)
+* Embedded Systems, Arduino, and ESP32
+* Scientific Computing and Applied Mathematics
+
+⚡ Fun Fact
+
+* I enjoy combining AI, mathematics, and engineering to solve real-world problems and build practical intelligent systems.
+
+## 🔬 Research Interests
+
+* Machine Learning
+* Scientific Computing
+* Computational Modelling
+* Material Informatics
+* Computer Vision
+* Intelligent Systems
+* Embedded AI
+* Data-Driven Engineering
 
 
 # 💻 Tech Stack:
