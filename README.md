@@ -143,8 +143,8 @@ Machine-learning-ready dataset containing 987 experimental records compiled from
 
 # 📫 Connect With Me
 
-* LinkedIn
-* GitHub
-* Email
+* https://www.linkedin.com/in/soumymittal/
+* https://github.com/SoumyMittal
+* soumymittal09@gmail.com
 
 Always open to learning, collaborating, and contributing to impactful projects.
