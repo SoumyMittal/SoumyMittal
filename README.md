@@ -1,47 +1,77 @@
-# 💫 About Me:
+# 💫 About Me
 
 ## 👨‍💻 About Me
+
+🎓 B.Tech Artificial Intelligence & Data Science Student at Amrita Vishwa Vidyapeetham
 
 🔭 I’m currently working on
 
 * Machine Learning applications for engineering and scientific domains
 * Research on Thermal Conductivity Prediction of Nanofluids using Machine Learning
-* Building AI, Computer Vision, and IoT-based projects using Python and Embedded Systems
+* AI, Computer Vision, and IoT-based intelligent systems
+* Building research-oriented and deployment-ready AI projects
 
 👯 I’m looking to collaborate on
 
 * Machine Learning and Data Science projects
 * Computer Vision applications using OpenCV and MediaPipe
-* Scientific Computing and Applied Mathematics projects
-* Research-oriented AI projects and open-source contributions
+* Scientific Computing and Computational Modelling projects
+* Research-oriented AI and Engineering applications
+* Open Source AI projects
 
 🤝 I’m looking for help with
 
-* Advanced Machine Learning techniques and model optimization
-* Research methodology and scientific publishing
-* Building scalable and production-ready AI applications
+* Advanced Machine Learning and Model Optimization
+* Scientific Machine Learning
+* Research Methodology and Academic Publishing
+* Large-Scale AI Systems and Deployment
 
 🌱 I’m currently learning
 
-* Advanced Machine Learning and Data Analysis
-* Scientific Computing and Mathematical Modelling
-* Computer Vision and Intelligent Systems
-* Research-driven applications of AI in Engineering
+* Advanced Machine Learning
+* Computer Vision
+* Scientific Computing
+* Intelligent Systems
+* Research Applications of AI in Engineering
+* Data-Driven Modelling Techniques
 
 💬 Ask me about
 
 * Python, Java, and MATLAB
-* Machine Learning and Data Preprocessing
+* Machine Learning & Data Science
 * Pandas, NumPy, Scikit-learn
-* Computer Vision (OpenCV, MediaPipe)
-* Embedded Systems, Arduino, and ESP32
-* Scientific Computing and Applied Mathematics
+* Computer Vision (OpenCV & MediaPipe)
+* Embedded Systems & IoT
+* Scientific Computing
+* Mathematical Modelling
 
 ⚡ Fun Fact
 
-* I enjoy combining AI, mathematics, and engineering to solve real-world problems and build practical intelligent systems.
+I enjoy combining AI, mathematics, engineering, and research to build practical intelligent systems and solve real-world problems.
 
-## 🔬 Research Interests
+---
+
+# 🚀 Featured Projects
+
+### 🌾 Crop Recommendation System
+
+Machine learning-powered crop recommendation system built using Python, Scikit-learn, Random Forest, and Streamlit for real-time agricultural decision support.
+
+### 🌡️ ESP32 Environment Monitoring System
+
+IoT-based environmental monitoring solution featuring real-time temperature and humidity tracking, automated email alerts, Wi-Fi connectivity, and anomaly detection.
+
+### ⚛️ Quantum Vertical Motion Simulation
+
+MATLAB-based scientific computing project for simulating quantum particle motion, analyzing wavefunctions, probability densities, and quantized energy states.
+
+### 🔬 Unified Thermal Conductivity Dataset of Nanofluids
+
+Machine-learning-ready dataset containing 987 experimental records compiled from peer-reviewed studies for material informatics and thermal conductivity prediction research.
+
+---
+
+# 🔬 Research Interests
 
 * Machine Learning
 * Scientific Computing
@@ -49,12 +79,72 @@
 * Material Informatics
 * Computer Vision
 * Intelligent Systems
-* Embedded AI
 * Data-Driven Engineering
+* Embedded AI
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyMittal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* Java
+* MATLAB
+
+### Machine Learning & Data Science
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+
+### Computer Vision
+
+* OpenCV
+* MediaPipe
+
+### Embedded Systems & IoT
+
+* ESP32
+* Arduino
+* Sensor Interfacing
+* Environmental Monitoring Systems
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+* Streamlit
+* Anaconda
+
+### Research & Documentation
+
+* LaTeX
+* Overleaf
+* IEEE Manuscript Preparation
+* Technical Documentation
+* BibTeX
+
+---
+
+# 📈 Current Focus
+
+* Research Publication in Material Informatics
+* Scientific Machine Learning
+* Computer Vision Applications
+* AI for Engineering Systems
+* Building High-Impact Open Source Projects
+
+---
+
+# 📫 Connect With Me
+
+* LinkedIn
+* GitHub
+* Email
+
+Always open to learning, collaborating, and contributing to impactful projects.
